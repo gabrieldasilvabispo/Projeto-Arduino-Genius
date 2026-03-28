@@ -18,3 +18,7 @@ O objetivo é memorizar e reproduzir sequências crescentes de luzes e sons:
 ![IMG_20260324_133521](https://github.com/user-attachments/assets/5111a0d6-65b4-4c20-93d3-cff6883459b9)
 ![IMG_20260323_142519](https://github.com/user-attachments/assets/13835cbc-979b-4173-bd1f-e644655a62e0)
 
+
+Codigo Genius:https://github.com/gabrieldasilvabispo/Projeto-Arduino-Genius/blob/f8c3760815211640ae7434ffa4101f5d2c74eeed/projeto%20genius/codigo%20genius
+
+Diagrama:https://github.com/gabrieldasilvabispo/Projeto-Arduino-Genius/blob/f8c3760815211640ae7434ffa4101f5d2c74eeed/projeto%20genius/diagrama_v3.png
